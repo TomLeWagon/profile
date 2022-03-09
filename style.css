@@ -59,6 +59,10 @@ a:hover {
   list-style: none;
   padding-left: 0px;
 }
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    font-size: 32px;
+}
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
