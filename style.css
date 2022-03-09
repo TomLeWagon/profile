@@ -65,6 +65,10 @@ a:hover {
     width: 700px;
   }
 }
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    font-size: 32px;
+}
 
 @media (max-width: 720px) {
   /* For a screen < 720px, this CSS will be read */
